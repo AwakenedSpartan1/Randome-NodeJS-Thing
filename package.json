@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing/issues"
   },
-  "homepage": "https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing#readme"
+  "homepage": "https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing#readme",
+  "dependencies": {
+    "aoi.js": "^6.1.0"
+  }
 }
