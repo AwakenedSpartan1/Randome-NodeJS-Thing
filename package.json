@@ -1,0 +1,19 @@
+{
+  "name": "randome-nodejs-thing",
+  "version": "1.0.0",
+  "description": "Random thing i decided to make goofy ahhh stupid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing.git"
+  },
+  "author": "AwakenedSpartan1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing/issues"
+  },
+  "homepage": "https://github.com/AwakenedSpartan1/Randome-NodeJS-Thing#readme"
+}
